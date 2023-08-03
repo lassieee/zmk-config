@@ -38,6 +38,7 @@
             bindings = <&kp RSHIFT>, <&kp RALT>;
         };
     };
+  };
 
 // Layers
 #define QWERTY 0
