@@ -43,7 +43,7 @@
 #define QWERTY 0
 #define Symbols 1
 #define Navigation 2
-#define F-keys+RGB 3
+#define F_keys_RGB 3
 
 // None
 #define ___ &none
